@@ -9,4 +9,4 @@ Engine instance it is a very easy to use tool which converts the entered text in
 The pyttsx3 module supports two voices first is female and the second is male which is provided by “sapi5” for windows
 </p>
 
-<img align="center" src="assets/img1.jpg" alt="sakshichavre" height="250" width="220" />
+<img align="center" src="assets/img1.jpg" alt="sakshichavre" height="300" width="600" />
